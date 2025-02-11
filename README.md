@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahaarnab&label=Profile%20views&color=0e75b6&style=flat" alt="lahaarnab" /> </p>
 
 
-<img align="center"> ![Image](https://github.com/user-attachments/assets/5f467420-7cea-49d9-869a-1f04bff17e79)  </img>
+<img src="https://github.com/user-attachments/assets/5f467420-7cea-49d9-869a-1f04bff17e79" alt="Image" style="display: block; margin: auto;">
+
 
 
 - 🌱 I’m currently learning **LLM models**
