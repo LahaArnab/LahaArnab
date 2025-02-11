@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnab Laha</h1>
-<h3 align="center">A passionate over AI/ML</h3>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5f467420-7cea-49d9-869a-1f04bff17e79" alt="Image"/>
 </p>
-
+<h3 align="center">A passionate over AI/ML</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahaarnab&label=Profile%20views&color=0e75b6&style=flat" alt="lahaarnab" /> </p>
 
 - 🌱 I’m currently learning **LLM models**
