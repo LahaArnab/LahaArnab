@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/93cb13cc-7734-4f3a-960a-5f4166bb6adb" width="24px"/>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!  I'm Arnab Laha
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!  Me , Arnab Laha
   <img src="https://github.com/user-attachments/assets/9aff6754-1b04-4f20-a56a-da5e506aca42" width="40px" />
 </h1>
 
@@ -10,7 +10,6 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-<h1 align="center">Hi 👋, I'm Arnab Laha</h1>
 
 - 🌱 I’m currently learning **LLM models**
 
@@ -21,7 +20,7 @@
 <br/>
 <br/>
 
-
+<div aligh = "center">
 <h4 align="center">
   
 ```diff
@@ -57,7 +56,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahaarnab&show_icons=true&locale=en" alt="lahaarnab" /></p>
 
-  
+</div>
 
 <br/>
 
