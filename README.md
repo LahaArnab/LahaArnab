@@ -85,7 +85,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/arnab-laha-4012b3287/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src=![Image](https://github.com/user-attachments/assets/43f15248-06c3-4125-925b-5c4ee66f958b)/></code>
   </a>
   <a href="https://www.facebook.com/arnab.laha.378" target="_blank"> 
     <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
@@ -94,7 +94,7 @@
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
   <a href="https://x.com/ALaha66369" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="![Image](https://github.com/user-attachments/assets/3c03e9f9-9a82-48b3-a25a-e99844551c3e)"/></code>
   </a>
 
 </p>
