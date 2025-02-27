@@ -20,6 +20,12 @@
 <br/>
 <br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 <div aligh = "center">
 <h4 align="center">
   
@@ -56,7 +62,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahaarnab&show_icons=true&locale=en" alt="lahaarnab" /></p>
 
-</div>
+
 
 <br/>
 
