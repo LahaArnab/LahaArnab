@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **LLM models**
 
-- 👯 I’m looking to collaborate on **Opensource projects**
+- 👯 I’m looking to collaborate on **Opensource projects, Start-up**
 
 - 📫 How to reach me **arnablaha2345@gmail.com**
 
@@ -53,11 +53,16 @@
 
 </h4>  
 
+</div>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
+<br/>
+
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahaarnab&show_icons=true&locale=en&layout=compact" alt="lahaarnab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahaarnab&show_icons=true&locale=en" alt="lahaarnab" /></p>
@@ -81,7 +86,7 @@
     <code><img  height="60" width="60" src="https://github.com/user-attachments/assets/c68db854-93af-45c8-9a9b-92d7c11c9dcf"/></code>
   </a>
   <a href="https://www.instagram.com/aar__nb/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/user-attachments/assets/1079f6b0-c8ed-484b-8504-22dc3628858a"/></code>
+    <code><img height="60" width="60" src="https://github.com/user-attachments/assets/fa48d0ce-252e-4168-af93-5c467d6df24f"/></code>
   </a>
   <a href="https://x.com/ALaha66369" target="_blank">
     <code><img height="60" width="60" src="https://github.com/user-attachments/assets/3c03e9f9-9a82-48b3-a25a-e99844551c3e"/></code>
