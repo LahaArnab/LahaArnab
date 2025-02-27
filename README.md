@@ -26,7 +26,6 @@
 
 <div align="center">
 
-<pre>
 <h4 align="center">
   
 ```diff
@@ -52,7 +51,7 @@
 ```
 
 </h4>  
-</pre> </div> 
+</div> 
   
 
 
