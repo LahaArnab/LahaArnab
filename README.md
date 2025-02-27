@@ -1,24 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Laha</h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5f467420-7cea-49d9-869a-1f04bff17e79" alt="Image"/>
-</p>
-<h3 align="center">A passionate over AI/ML</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahaarnab&label=Profile%20views&color=0e75b6&style=flat" alt="lahaarnab" /> </p>
 
-- 🌱 I’m currently learning **LLM models**
-
-- 👯 I’m looking to collaborate on **Opensource projects**
-
-- 📫 How to reach me **arnablaha2345@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arnab-laha-4012b3287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-laha-4012b3287" height="30" width="40" /></a>
-<a href="https://kaggle.com/arnablaha05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arnablaha05" height="30" width="40" /></a>
-</p>
-
-
-=================================================================================
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/93cb13cc-7734-4f3a-960a-5f4166bb6adb" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!  I'm Arnab Laha
