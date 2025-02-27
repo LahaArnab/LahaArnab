@@ -75,7 +75,6 @@
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -85,16 +84,16 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/arnab-laha-4012b3287/" target="_blank">
-    <code><img height="60" width="60" src=![Image](https://github.com/user-attachments/assets/43f15248-06c3-4125-925b-5c4ee66f958b)/></code>
+    <code><img height="60" width="60" src="https://github.com/user-attachments/assets/43f15248-06c3-4125-925b-5c4ee66f958b"/></code>
   </a>
   <a href="https://www.facebook.com/arnab.laha.378" target="_blank"> 
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://github.com/user-attachments/assets/c68db854-93af-45c8-9a9b-92d7c11c9dcf"/></code>
   </a>
   <a href="https://www.instagram.com/aar__nb/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/user-attachments/assets/1079f6b0-c8ed-484b-8504-22dc3628858a"/></code>
   </a>
   <a href="https://x.com/ALaha66369" target="_blank">
-    <code><img height="60" width="60" src="![Image](https://github.com/user-attachments/assets/3c03e9f9-9a82-48b3-a25a-e99844551c3e)"/></code>
+    <code><img height="60" width="60" src="https://github.com/user-attachments/assets/3c03e9f9-9a82-48b3-a25a-e99844551c3e"/></code>
   </a>
 
 </p>
