@@ -26,7 +26,7 @@
 <br/>
 
 
-<div aligh = "center">
+<p aligh = "center">
 <h4 align="center">
   
 ```diff
@@ -53,7 +53,10 @@
 
 </h4>  
 
-</div>
+</p>
+
+<br/>
+<br/>
 
 
 <h1 align="left">Languages and Tools:</h1>
