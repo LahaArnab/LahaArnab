@@ -16,10 +16,8 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 - 📫 Reach me at: **arnablaha2345@gmail.com**
 
 
-
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahaarnab&label=Profile%20views&color=0e75b6&style=flat" alt="lahaarnab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahaarnab" alt="lahaarnab" /></a> </p>
 
 <br clear="both"/>
 
