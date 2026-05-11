@@ -253,12 +253,12 @@ Streamlit-based application generating Indian cultural artwork using Google Gene
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lahaarnab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lahaarnab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lahaarnab&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahaarnab&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lahaarnab&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
