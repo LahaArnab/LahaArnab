@@ -25,6 +25,7 @@ Passionate about building intelligent systems using
 </div>
 
 ---
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
 # 💫 About Me
 
