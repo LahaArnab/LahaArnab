@@ -1,8 +1,13 @@
+
+<div align="center">
+  <i>“Building the future, one model at a time.”</i>
+</div>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Arnab+Laha+👋;AI%2FML+Engineer+%7C+Researcher;Full+Stack+Developer+%7C+LLM+Enthusiast;Building+AI+Systems+for+Real+World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Arnab+Laha+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Researcher;Full+Stack+Developer+%7C+LLM+Enthusiast;Building+AI+Systems+for+Real+World+Problems" alt="Typing SVG" />
 
-<br/>
+
 
 <h2>🚀 AI/ML Engineer • Researcher • Full Stack Developer</h2>
 
