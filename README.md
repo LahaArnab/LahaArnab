@@ -106,37 +106,6 @@ Passionate about building intelligent systems using
 
 ---
 
-# 🛠️ Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,sql" />
-</p>
-
-## 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,html,css" />
-</p>
-
-## ⚙️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,mongodb" />
-</p>
-
----
 
 # 🏆 Achievements
 
