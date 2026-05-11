@@ -29,17 +29,12 @@ Passionate about building intelligent systems using
 
 # 💫 About Me
 
-- 🔭 Currently working on **Multimodal AI, Visual Question Answering, and LLM Fine-Tuning**
-- 🌱 Summer Intern at **IACS Kolkata** *(Computer Vision & Pattern Recognition)*
-- 🏆 Achievements:
-  - **2nd Runner-Up** @ IIT Kharagpur StratQuest *(1300+ participants)*
-  - **Top 146** @ Amazon ML Challenge 2025
-- 📚 Research:
-  - 3 papers accepted/presented at **ICCCN, ICPC2T, and ICCCNT**
-- 👯 Open to collaborate on:
-  - Open Source
-  - AI Research
-  - Early-stage Startups
+- 🔭 **Currently working on** – Multimodal AI, Visual Question Answering, and LLM fine-tuning  
+- 🌱 **Summer Intern** – IACS Kolkata (Computer Vision & Pattern Recognition)  
+- 🏆 **Achievements** – 2nd Runner-up @ IIT Kharagpur StratQuest (1300+ participants) | Top 146 @ Amazon ML Challenge 2025  
+- 📚 **Research** – 3 papers (Accepted/Presented) in ICCCN, ICPC2T, ICCNTT  
+- 👯 **Open to collaborate** – Open Source, AI Research, and early-stage startups
+
 
 ---
 
@@ -53,21 +48,11 @@ Passionate about building intelligent systems using
 
 ---
 
-# 💼 Experience Highlights
+### 💼 Experience Highlights
 
-## 🖼️ IACS Kolkata — Research Intern
-- Built a **10K+ labeled Indian art dataset**
-- Developed a **Visual Question Answering (VQA) pipeline**
-- Worked on **Indian art style classification using Computer Vision**
-
-## 🧪 NIT Rourkela — Research Internship
-- Designed a **custom clustering algorithm**
-- Outperformed existing **state-of-the-art (SOTA)** methods on a proprietary dataset
-
-## 🤖 ThinkDeck — ML Engineer Intern
-- Scraped and processed **12K+ domain-specific records**
-- Fine-tuned **DeepSeek-LLM-7B**
-- Built a domain-specific **Question Answering system**
+- **IACS Kolkata** – Built 10K+ labeled art dataset + VQA pipeline for Indian art style classification.  
+- **NIT Rourkela** – Custom clustering algorithm beating SOTA on proprietary dataset.  
+- **ThinkDeck (ML Engineer Intern)** – Scraped 12K records → fine‑tuned DeepSeek‑LLM‑7B for domain‑specific Q&A.
 
 ---
 
