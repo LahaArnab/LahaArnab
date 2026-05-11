@@ -4,7 +4,7 @@
 
 
 
-<h2>🚀 AI/ML Engineer • Researcher • Full Stack Developer</h2>
+<h2>🚀 AI/ML Engineer • Researcher • Developer</h2>
 
 <p>
   <strong>Pre-Final Year CSE Undergraduate @ KIIT University</strong>
