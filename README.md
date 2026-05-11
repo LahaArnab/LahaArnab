@@ -99,7 +99,7 @@ Passionate about building intelligent systems using
 
 # 🏆 Achievements
 
-- 🥈 **2nd Runner-Up** — IIT Kharagpur StratQuest *(1300+ participants)*
+- 🥇 **1st Runner-Up** — IIT Kharagpur StratQuest *(1300+ participants)*
 - 🏅 **Top 146** — Amazon ML Challenge 2025
 - 📄 Research papers accepted/presented at:
   - ICCCN
